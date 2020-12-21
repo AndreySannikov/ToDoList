@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+    <item android:drawable="@color/blue_200"/>
+    <item>
+
+        <bitmap
+            android:src="@drawable/check_list_128_png"
+            android:gravity="center"/>
+
+    </item>
+
+</layer-list>
